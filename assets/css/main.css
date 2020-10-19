@@ -169,10 +169,18 @@ footer {
   flex-wrap: wrap;
 }
 
+
 .bl-section h4 {
   color: #aaa;
   margin-top: 0;
 }
+
+.bl-section h2 {
+    color: #aaa;
+    margin-top: 0;
+    font-size: 18px;
+}
+
 
 .backlinks a {
   flex: 100%;
